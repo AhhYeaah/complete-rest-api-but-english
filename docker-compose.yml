@@ -1,0 +1,19 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: mysql:latest
+    command: --default-authentication-plugin=mysql_native_password
+    
+    # Remove this if you want it for production.
+    restart: always
+
+    environment:
+      MYSQL_ROOT_PASSWORD: "${PASSWORD}"
+      MYSQL_DATABASE: "${DATABASE_NAME}"
+    volumes: 
+      - ./docker/database:/var/lib/mysql
+    ports:
+        - "${PORT}:${PORT}"
+        
