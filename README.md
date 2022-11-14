@@ -1,6 +1,6 @@
 This was an simple API rest made as a code challenge, it was supposed to be done in a period of one week, did it in 8 hours
 
-This repository is a a
+This repository is an attempt of translating one of my repos, complete-rest-api, if you find any errors or untranslated code, ping me pls.
 
 # Backend code-challenge
 
@@ -29,8 +29,4 @@ Dont forget to put instructions in how to run your code on readme.
 
 1. Assign the blank variables at the `.env.example` file and rename it to `.env`
 2. Run `yarn` to download project dependencies.
-<<<<<<< HEAD
 3. In another therminal, run `yarn test`.
-=======
-4. In another therminal, run `yarn test`.
->>>>>>> 2bff33759cd90e873958b1de9d16a220d5b82778
