@@ -1,6 +1,6 @@
-This was an simple API rest made as a code challenge, it was supposed to be done in a period of one week, I did in 8 hours. 
+This was an simple API rest made as a code challenge, it was supposed to be done in a period of one week, did it in 8 hours
 
-I'll try to translate everything
+This repository is a a
 
 # Backend code-challenge
 
@@ -14,7 +14,7 @@ Your **objective** is **creating a REST API** with some fundamental functions re
 
 You decide how you will make the database.
 
-Dont forget to put instructions in how to run your code on readme. 
+Dont forget to put instructions in how to run your code on readme.
 
 ## Instructions
 
@@ -29,4 +29,4 @@ Dont forget to put instructions in how to run your code on readme.
 
 1. Assign the blank variables at the `.env.example` archive and rename it to `.env`
 2. Run `yarn` to download project dependencies.
-4. In another therminal, run `yarn test`.
+3. In another therminal, run `yarn test`.
