@@ -1,3 +1,5 @@
+# Hi there
+
 This was an simple API rest made as a code challenge, it was supposed to be done in a period of one week, did it in 8 hours
 
 This repository is an attempt of translating one of my repos, complete-rest-api, if you find any errors or untranslated code, ping me pls.
